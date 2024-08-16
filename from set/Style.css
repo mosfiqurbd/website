@@ -1,0 +1,43 @@
+nav a {
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+input, select, textarea {
+    width: 100;
+    padding: 0.5rem;
+    margin: 0.8rem 0;
+    border-radius: 0.5rem;
+    box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+   
+}
+h1,h2,h3{
+    color: darkblue;
+}
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse ;
+    margin: 12rem 0;
+}
+table,
+th,
+td { border: 1px solid #ddd;
+    padding: 0.5rem;
+
+}
+th{
+    background-color: #f2f2f2;
+}
+label {
+    color: darkcyan;
+}
+p{
+    color: skyblue;
+}
+
